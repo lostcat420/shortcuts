@@ -1,0 +1,76 @@
+{
+  "modeType": {
+    "anarchy": {
+      "matchSetting": "bankaraMatchSettings",
+      "schedule": "bankaraSchedules",
+      "rotationName": "Anarchy",
+      "codeName": "bankara",
+      "mode": {
+        "CHALLENGE": "(Series)",
+        "OPEN": "(Open)"
+      }
+    },
+    "turf": {
+      "matchSetting": "regularMatchSetting",
+      "schedule": "regularSchedules",
+      "rotationName": "Turf War",
+      "codeName": "regular"
+    },
+    "x": {
+      "matchSetting": "xMatchSetting",
+      "schedule": "xSchedules",
+      "rotationName": "X Battle",
+      "codeName": "x"
+    },
+    "league": {
+      "matchSetting": "leagueMatchSetting",
+      "schedule": "leagueSchedules",
+      "rotationName": "League",
+      "codeName": "league"
+    },
+    "salmon": {
+      "matchSetting": "setting",
+      "schedule": "coopGroupingSchedule.regularSchedules",
+      "rotationName": "Salmon Run",
+      "codeName": "coopGrouping"
+    },
+    "bigrun": {
+      "matchSetting": "setting",
+      "schedule": "coopGroupingSchedule.bigRunSchedules",
+      "rotationName": "Big Run",
+      "codeName": "bigRun"
+    },
+    "splatfest": {
+      "matchSetting": "festMatchSetting",
+      "schedule": "festSchedules",
+      "rotationName": "Splatfest",
+      "codeName": "fest"
+    }
+  },
+  "nicknames": {
+    "mapNicknames": {
+      "Hammerhead Bridge": "Bridge",
+      "Museum d'Alfonsino": "Museum",
+      "Mahi-Mahi Resort": "Mahi",
+      "Inkblot Art Academy": "Inkblot",
+      "Scorch Gorge": "Scorch",
+      "Mincemeat Metalworks": "Mincemeat",
+      "Flounder Heights": "Flounder",
+      "Manta Maria": "Manta",
+      "Hagglefish Market": "Hagglefish",
+      "Sturgeon Shipyard": "Sturgeon",
+      "MakoMart": "MakoMart",
+      "Eeltail Alley": "Eeltail",
+      "Wahoo World": "Wahoo",
+      "Brinewater Springs": "Brinewater",
+      "Um'ami Ruins": "Ruins",
+      "Undertow Spillway": "Undertow"
+    },
+    "vsRuleNicknames": {
+      "Splat Zones": "Zones",
+      "Clam Blitz": "Clams",
+      "Rainmaker": "Rainmaker",
+      "Tower Control": "Tower"
+    }
+  }
+}
