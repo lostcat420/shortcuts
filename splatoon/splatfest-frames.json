@@ -1,0 +1,103 @@
+{
+  "current": "Power, Wisdom, Courage",
+  "splatfests": {
+    "Power, Wisdom, Courage": {
+      "💪 Power": {
+        "Octoling": "x",
+        "Inkling": "t"
+      },
+      "🧠 Wisdom": {
+        "Octoling": "",
+        "Inkling": "",
+      },
+      "❤️‍🔥 Courage": {
+        "Octoling": "",
+        "Inkling": ""
+      }
+    },
+    "Nessie, Aliens, Bigfoot": {
+      "🦕 Nessie": {
+        "Octoling": "",
+        "Inkling": ""
+      },
+      "👽 Aliens": {
+        "Octoling": "",
+        "Inkling": ""
+      },
+      "🦶 Bigfoot": {
+        "Octoling": "",
+        "Inkling": ""
+      }
+    },
+    "Dark Chocolate, Milk Chocolate, White Chocolate": {
+      "⬛️ Dark Chocolate": {
+        "Octoling": "",
+        "Inkling": ""
+      },
+      "🥛 Milk Chocolate": {
+        "Octoling": "",
+        "Inkling": ""
+      },
+      "⚪️ White Chocolate": {
+        "Octoling": "",
+        "Inkling": ""
+      }
+    },
+    "Spicy, Sweet, Sour": {
+      "🌶 Spicy": {
+        "Octoling": "",
+        "Inkling": ""
+      },
+      "🍰 Sweet": {
+        "Octoling": "",
+        "Inkling": ""
+      },
+      "🍋 Sour": {
+        "Octoling": "",
+        "Inkling": ""
+      }
+    },
+    "Grass, Fire, Water": {
+      "🌱 Grass": {
+        "Octoling": "",
+        "Inkling": ""
+      },
+      "🔥 Fire": {
+        "Octoling": "",
+        "Inkling": ""
+      },
+      "💧 Water": {
+        "Octoling": "",
+        "Inkling": ""
+      }
+    },
+    "Gear, Grub, Fun": {
+      "🧰 Gear": {
+        "Octoling": "",
+        "Inkling": ""
+      },
+      "🍔 Grub": {
+        "Octoling": "",
+        "Inkling": ""
+      },
+      "🎲 Fun": {
+        "Octoling": "",
+        "Inkling": ""
+      }
+    },
+    "Rock, Paper, Scissors": {
+      "🪨 Rock": {
+        "Octoling": "",
+        "Inkling": ""
+      },
+      "📄 Paper": {
+        "Octoling": "",
+        "Inkling": ""
+      },
+      "✂️ Scissors": {
+        "Octoling": "",
+        "Inkling": ""
+      }
+    },
+  }
+}
