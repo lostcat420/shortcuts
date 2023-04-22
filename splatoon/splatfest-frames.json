@@ -3,101 +3,83 @@
   "splatfests": {
     "Power, Wisdom, Courage": {
       "💪 Power": {
-        "Octoling": "x",
-        "Inkling": "t"
+        "Octoling": "ENa2_Power_Octopus.png",
+        "Inkling": "ENa1_Power_Squid.png"
       },
       "🧠 Wisdom": {
-        "Octoling": "",
-        "Inkling": "",
+        "Octoling": "ENb2_Wisdom_Octopus.png",
+        "Inkling": "ENb1_Wisdom_Squid.png"
       },
       "❤️‍🔥 Courage": {
-        "Octoling": "",
-        "Inkling": ""
+        "Octoling": "ENc2_Courage_Octopus.png",
+        "Inkling": "ENc1_Courage_Squid.png"
       }
     },
     "Nessie, Aliens, Bigfoot": {
       "🦕 Nessie": {
-        "Octoling": "",
-        "Inkling": ""
+        "Octoling": "ENa2_Nessie_Octopus.png",
+        "Inkling": "ENa1_Nessie_Squid.png"
       },
       "👽 Aliens": {
-        "Octoling": "",
-        "Inkling": ""
+        "Octoling": "ENb2_Aliens_Octopus.png",
+        "Inkling": "ENb1_Aliens_Squid.png"
       },
       "🦶 Bigfoot": {
-        "Octoling": "",
-        "Inkling": ""
+        "Octoling": "ENc2_Bigfoot_Octopus.png",
+        "Inkling": "ENc1_Bigfoot_Squid.png"
       }
     },
     "Dark Chocolate, Milk Chocolate, White Chocolate": {
       "⬛️ Dark Chocolate": {
-        "Octoling": "",
-        "Inkling": ""
+        "Octoling": "ENa2_Dark_Octopus.png",
+        "Inkling": "ENa1_Dark_Squid.png"
       },
       "🥛 Milk Chocolate": {
-        "Octoling": "",
-        "Inkling": ""
+        "Octoling": "ENb2_Milk_Octopus.png",
+        "Inkling": "ENb1_Milk_Squid.png"
       },
       "⚪️ White Chocolate": {
-        "Octoling": "",
-        "Inkling": ""
+        "Octoling": "ENc2_White_Octopus.png",
+        "Inkling": "ENc1_White_Squid.png"
       }
     },
     "Spicy, Sweet, Sour": {
       "🌶 Spicy": {
-        "Octoling": "",
-        "Inkling": ""
+        "Octoling": "EN12_Spicy_Octopus.png",
+        "Inkling": "EN11_Spicy_Squid.png"
       },
       "🍰 Sweet": {
-        "Octoling": "",
-        "Inkling": ""
+        "Octoling": "EN22_Sweet_Octopus.png",
+        "Inkling": "EN21_Sweet_Squid.png"
       },
       "🍋 Sour": {
-        "Octoling": "",
-        "Inkling": ""
+        "Octoling": "EN32_Sour_Octopus.png",
+        "Inkling": "EN31_Sour_Squid.png"
       }
     },
     "Grass, Fire, Water": {
       "🌱 Grass": {
-        "Octoling": "",
-        "Inkling": ""
+        "Octoling": "Fest_Grass-Octopus.png",
+        "Inkling": "Fest_Grass-Squid.pngFest_Water-Octopus.png"
       },
       "🔥 Fire": {
-        "Octoling": "",
-        "Inkling": ""
+        "Octoling": "Fest_Fire-Octopus.png",
+        "Inkling": "Fest_Fire-Squid.png"
       },
       "💧 Water": {
-        "Octoling": "",
-        "Inkling": ""
+        "Octoling": "Fest_Water-Octopus.png",
+        "Inkling": "Fest_Water-Squid.png"
       }
     },
     "Gear, Grub, Fun": {
-      "🧰 Gear": {
-        "Octoling": "",
-        "Inkling": ""
-      },
-      "🍔 Grub": {
-        "Octoling": "",
-        "Inkling": ""
-      },
-      "🎲 Fun": {
-        "Octoling": "",
-        "Inkling": ""
-      }
+      "🧰 Gear": "Gear.png",
+      "🍔 Grub": "Grub.png",
+      "🎲 Fun": "Fun.png"
     },
     "Rock, Paper, Scissors": {
-      "🪨 Rock": {
-        "Octoling": "",
-        "Inkling": ""
-      },
-      "📄 Paper": {
-        "Octoling": "",
-        "Inkling": ""
-      },
-      "✂️ Scissors": {
-        "Octoling": "",
-        "Inkling": ""
-      }
+      "🪨 Rock": "Rock.png",
+      "📄 Paper": "Paper.png",
+      "✂️ Scissors": "Scissors.png"
     },
   }
 }
