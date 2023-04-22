@@ -77,10 +77,14 @@
       "🎲 Fun": "Fun.png"
     },
     "Rock, Paper, Scissors": {
-      "🪨 Rock": "Rock.png",
-      "📄 Paper": "Paper.png",
+      "🪨 Rock": {
+        "url": "Rock.png"
+      },
+      "📄 Paper": {
+        "url": "Paper.png"
+      },
       "✂️ Scissors": {
-        "Scissors.png"
+        "url": "Scissors.png"
       }
     },
   }
