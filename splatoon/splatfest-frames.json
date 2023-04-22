@@ -72,9 +72,15 @@
       }
     },
     "Gear, Grub, Fun": {
-      "🧰 Gear": "Gear.png",
-      "🍔 Grub": "Grub.png",
-      "🎲 Fun": "Fun.png"
+      "🧰 Gear": {
+        "url": "Gear.png"
+      },
+      "🍔 Grub": {
+        "url": "Grub.png"
+      },
+      "🎲 Fun": {
+        "url": "Fun.png"
+      }
     },
     "Rock, Paper, Scissors": {
       "🪨 Rock": {
