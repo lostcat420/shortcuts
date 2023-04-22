@@ -79,7 +79,9 @@
     "Rock, Paper, Scissors": {
       "🪨 Rock": "Rock.png",
       "📄 Paper": "Paper.png",
-      "✂️ Scissors": "Scissors.png"
+      "✂️ Scissors": {
+        "Scissors.png"
+      }
     },
   }
 }
