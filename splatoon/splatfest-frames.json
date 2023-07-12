@@ -1,6 +1,20 @@
 {
-  "current": "Power, Wisdom, Courage",
+  "current": "Vanilla, Strawberry, Mint Chip",
   "splatfests": {
+    "Vanilla, Strawberry, Mint Chip": {
+      "🍦 Vanilla": {
+        "Octoling": "ENa2_Vanilla_Octopus.png",
+        "Inkling": "ENa1_Vanilla_Squid.png"
+      },
+      "🍓 Strawberry": {
+        "Octoling": "ENb2_Strawberry_Octopus.png",
+        "Inkling": "ENb1_Strawberry_Squid.png"
+      },
+      "🌿 Mint Chip": {
+        "Octoling": "ENc2_MintChip_Octopus.png",
+        "Inkling": "ENc1_MintChip_Squid.png"
+      }
+    },
     "Power, Wisdom, Courage": {
       "💪 Power": {
         "Octoling": "ENa2_Power_Octopus.png",
