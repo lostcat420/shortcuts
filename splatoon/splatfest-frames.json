@@ -1,6 +1,34 @@
 {
-  "current": "Vanilla, Strawberry, MintChip",
+  "current": "Shiver, Frye, Big Man",
   "splatfests": {
+    "Shiver, Frye, Big Man": {
+      "💙 Shiver": {
+        "Octoling": "ENa2_Shiver_Octopus.png",
+        "Inkling": "ENa1_Shiver_Squid.png"
+      },
+      "💛 Frye": {
+        "Octoling": "ENb2_Frye_Octopus.png",
+        "Inkling": "ENb1_Frye_Squid.png"
+      },
+      "❤️ Big Man": {
+        "Octoling": "ENc2_BigMan_Octopus.png",
+        "Inkling": "ENc1_BigMan_Squid.png"
+      }
+    },
+    "Money, Fame, Love": {
+      "💰 Money": {
+        "Octoling": "ENa2_Money_Octopus.png",
+        "Inkling": "ENa1_Money_Squid.png"
+      },
+      "🏆 Fame": {
+        "Octoling": "ENb2_Fame_Octopus.png",
+        "Inkling": "ENb1_Fame_Squid.png"
+      },
+      "💗 Love": {
+        "Octoling": "ENc2_Love_Octopus.png",
+        "Inkling": "ENc1_Love_Squid.png"
+      }
+    },
     "Vanilla, Strawberry, MintChip": {
       "🍦 Vanilla": {
         "Octoling": "ENa2_Vanilla_Octopus.png",
