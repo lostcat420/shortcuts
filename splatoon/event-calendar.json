@@ -1,34 +1,36 @@
-"translationDictionary": {
-    "CoopNormalSetting": "Salmon Run",
-    "salmon": {
-        "matchSetting": "setting",
-        "schedule": "coopGroupingSchedule.regularSchedules",
-        "rotationName": "Salmon Run",
-        "codeName": "coopGrouping"
-    },
-    "stageEmoji": {
-        "Jammin' Salmon Junction": "📣",
-        "Spawning Grounds": "👶",
-        "Sockeye Station": "🧦",
-        "Marooner's Bay": "⛴️",
-        "Gone Fission Hydroplant": "🏭"
-    },
-    "BigRunSetting": "Big Run",
-    "kingEmoji": {
-        "Horrorboros": "🐉",
-        "Cohozuna": "🐳"
-    },
-    "bigrun": {
-        "matchSetting": "setting",
-        "schedule": "coopGroupingSchedule.bigRunSchedules",
-        "rotationName": "Big Run",
-        "codeName": "bigRun"
-    }
-},
-"splatNetPaths": {
-    "challenges": "data.eventSchedules.nodes",
-    "splatfest": "data.festSchedules.nodes",
-    "eggstra": "data.coopGroupingSchedule.teamContestSchedules.nodes",
-    "salmonrun": "data.coopGroupingSchedule.regularSchedules.nodes",
-    "bigrun": "data.coopGroupingSchedule.bigRunSchedules.nodes"
+{
+	"translationDictionary": {
+	    "CoopNormalSetting": "Salmon Run",
+	    "salmon": {
+	        "matchSetting": "setting",
+	        "schedule": "coopGroupingSchedule.regularSchedules",
+	        "rotationName": "Salmon Run",
+	        "codeName": "coopGrouping"
+	    },
+	    "stageEmoji": {
+	        "Jammin' Salmon Junction": "📣",
+	        "Spawning Grounds": "👶",
+	        "Sockeye Station": "🧦",
+	        "Marooner's Bay": "⛴️",
+	        "Gone Fission Hydroplant": "🏭"
+	    },
+	    "BigRunSetting": "Big Run",
+	    "kingEmoji": {
+	        "Horrorboros": "🐉",
+	        "Cohozuna": "🐳"
+	    },
+	    "bigrun": {
+	        "matchSetting": "setting",
+	        "schedule": "coopGroupingSchedule.bigRunSchedules",
+	        "rotationName": "Big Run",
+	        "codeName": "bigRun"
+	    }
+	},
+	"splatNetPaths": {
+	    "challenges": "data.eventSchedules.nodes",
+	    "splatfest": "data.festSchedules.nodes",
+	    "eggstra": "data.coopGroupingSchedule.teamContestSchedules.nodes",
+	    "salmonrun": "data.coopGroupingSchedule.regularSchedules.nodes",
+	    "bigrun": "data.coopGroupingSchedule.bigRunSchedules.nodes"
+	}
 }
