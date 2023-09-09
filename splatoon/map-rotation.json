@@ -41,7 +41,7 @@
       "codeName": "bigRun"
     },
     "splatfest": {
-      "matchSetting": "festMatchSetting",
+      "matchSetting": "festMatchSettings",
       "schedule": "festSchedules",
       "rotationName": "Splatfest",
       "codeName": "fest"
