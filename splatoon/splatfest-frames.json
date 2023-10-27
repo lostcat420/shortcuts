@@ -1,6 +1,20 @@
 {
-  "current": "Shiver, Frye, Big-Man",
+  "current": "Zombie, Skeleton, Ghost",
   "splatfests": {
+    "Zombie, Skeleton, Ghost": {
+      " 🧟 Zombie": {
+        "Octoling": "ENa2_Zombie_Octopus.png",
+        "Inkling": "ENa1_Zombie_Squid.png"
+      },
+      "💀 Skeleton": {
+        "Octoling": "ENb2_Skeleton_Octopus.png",
+        "Inkling": "ENb1_Skeleton_Squid.png"
+      },
+      "👻 Ghost": {
+        "Octoling": "ENc2_Ghost_Octopus.png",
+        "Inkling": "ENc1_Ghost_Squid.png"
+      }
+    },
     "Shiver, Frye, Big-Man": {
       "💙 Shiver": {
         "Octoling": "ENa2_Shiver_Octopus.png",
