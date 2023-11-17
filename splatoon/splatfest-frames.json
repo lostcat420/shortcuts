@@ -1,6 +1,20 @@
 {
-  "current": "Zombie, Skeleton, Ghost",
+  "current": "Handshake, Fistbump, Hug",
   "splatfests": {
+    "Handshake, Fistbump, Hug": {
+      "🤝 Handshake": {
+        "Octoling": "ENa2_Handshake_Octopus.png",
+        "Inkling": "ENa1_Handshake_Squid.png"
+      },
+      " 🤛 Fistbump": {
+        "Octoling": "ENb2_Fistbump_Octopus.png",
+        "Inkling": "ENb1_Fistbump_Squid.png"
+      },
+      "🫂 Hug": {
+        "Octoling": "ENc2_Hug_Octopus.png",
+        "Inkling": "ENc1_Hug_Squid.png"
+      }
+    },
     "Zombie, Skeleton, Ghost": {
       " 🧟 Zombie": {
         "Octoling": "ENa2_Zombie_Octopus.png",
