@@ -1,6 +1,20 @@
 {
-  "current": "Handshake, Fistbump, Hug",
+  "current": "Friends, Family, Solo",
   "splatfests": {
+    "Friends, Family, Solo": {
+      "👯‍♂️ Friends": {
+        "Octoling": "ENa2_Friends_Octopus.png",
+        "Inkling": "ENa1_Friends_Squid.png"
+      },
+      "👨‍👩‍👧‍👦 Family": {
+        "Octoling": "ENb2_Family_Octopus.png",
+        "Inkling": "ENb1_Family_Squid.png"
+      },
+      "🧍 Solo": {
+        "Octoling": "ENc2_Solo_Octopus.png",
+        "Inkling": "ENc1_Solo_Squid.png"
+      }
+    }
     "Handshake, Fistbump, Hug": {
       "🤝 Handshake": {
         "Octoling": "ENa2_Handshake_Octopus.png",
