@@ -30,6 +30,9 @@
 	    }
 	},
 	"splatNetPaths": {
+	    "turf": "data.regularSchedules.nodes",
+	    "anarchy": "data.bankaraSchedules.nodes",
+	    "x": "data.xSchedules.nodes",
 	    "challenges": "data.eventSchedules.nodes",
 	    "splatfest": "data.festSchedules.nodes",
 	    "eggstra": "data.coopGroupingSchedule.teamContestSchedules.nodes",
