@@ -13,12 +13,14 @@
 	        "Sockeye Station": "🧦",
 	        "Marooner's Bay": "⛴️",
 		"Salmonid Smokeyard": "🚬",
-	        "Gone Fission Hydroplant": "🏭"
+	        "Gone Fission Hydroplant": "🏭",
+	        "Bonerattle Arena": "🦴"
 	    },
 	    "BigRunSetting": "Big Run",
 	    "kingEmoji": {
 	        "Horrorboros": "🐉",
-	        "Cohozuna": "🐳"
+	        "Cohozuna": "🐳",
+	        "Megalodontia": "🦈"
 	    },
 	    "bigrun": {
 	        "matchSetting": "setting",
