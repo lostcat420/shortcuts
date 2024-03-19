@@ -1,6 +1,20 @@
 {
-  "current": "Friends, Family, Solo",
+  "current": "Drums, Guitar, Keyboard",
   "splatfests": {
+    "Drums, Guitar, Keyboard": {
+      "🥁 Drums": {
+        "Octoling": "ENa2_Drums_Octopus.png",
+        "Inkling": "ENa1_Drums_Squid.png"
+      },
+      "🎸 Guitar": {
+        "Octoling": "ENb2_Guitar_Octopus.png",
+        "Inkling": "ENb1_Guitar_Squid.png"
+      },
+      "🎹 Keyboard": {
+        "Octoling": "ENc2_Keyboard_Octopus.png",
+        "Inkling": "ENc1_Keyboard_Squid.png"
+      }
+    },
     "Friends, Family, Solo": {
       "👯‍♂️ Friends": {
         "Octoling": "ENa2_Friends_Octopus.png",
