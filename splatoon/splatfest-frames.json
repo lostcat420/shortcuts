@@ -15,6 +15,20 @@
         "Inkling": "ENc1_Keyboard_Squid.png"
       }
     },
+    "Usushio, Konsome, Norishio": {
+      "🔵 Usushio": {
+        "Octoling": "ENa2_Usushio_Octopus.png",
+        "Inkling": "ENa1_Usushio_Squid.png"
+      },
+      "🟠 Konsome": {
+        "Octoling": "ENb2_Konsome_Octopus.png",
+        "Inkling": "ENb1_Konsome_Squid.png"
+      },
+      "🟢 Norishio": {
+        "Octoling": "ENc2_Norishio_Octopus.png",
+        "Inkling": "ENc1_Norishio_Squid.png"
+      }
+    },
     "Friends, Family, Solo": {
       "👯‍♂️ Friends": {
         "Octoling": "ENa2_Friends_Octopus.png",
