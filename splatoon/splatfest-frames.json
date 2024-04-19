@@ -3,16 +3,16 @@
   "splatfests": {
     "Chicks, Bunnies, Cubs": {
       "🐣 Chicks": {
-        "Octoling": "ENa2_Chicks_Octopus.png",
-        "Inkling": "ENa1_Chicks_Squid.png"
+        "Octoling": "ENa2_chicks_octopus.png",
+        "Inkling": "ENa1_chicks_squid.png"
       },
       "🐰 Bunnies": {
-        "Octoling": "ENb2_Bunnies_Octopus.png",
-        "Inkling": "ENb1_Bunnies_Squid.png"
+        "Octoling": "ENb2_bunnies_octopus.png",
+        "Inkling": "ENb1_bunnies_squid.png"
       },
       "🐻 Cubs": {
-        "Octoling": "ENc2_Cubs_Octopus.png",
-        "Inkling": "ENc1_Cubs_Squid.png"
+        "Octoling": "ENc2_cubs_octopus.png",
+        "Inkling": "ENc1_cubs_squid.png"
       }
     },
     "Drums, Guitar, Keyboard": {
