@@ -3,16 +3,16 @@
   "splatfests": {
     "Same Ol', Bucket List, Save the Day": {
       "🛋️ Same Ol'": {
-        "Octoling": "ENa2_Sameol_Octopus.png",
-        "Inkling": "ENa1_Sameol_Squid.png"
+        "Octoling": "ENa2_sameol_Octopus.png",
+        "Inkling": "ENa1_sameol_Squid.png"
       },
       "🪣 Bucket List": {
-        "Octoling": "ENb2_Bucketlist_Octopus.png",
-        "Inkling": "ENb1_Bucketlist_Squid.png"
+        "Octoling": "ENb2_bucketlist_Octopus.png",
+        "Inkling": "ENb1_bucketlist_Squid.png"
       },
       "🌆 Save the Day": {
-        "Octoling": "ENc2_Saveday_Octopus.png",
-        "Inkling": "ENc1_Saveday_Squid.png"
+        "Octoling": "ENc2_saveday_Octopus.png",
+        "Inkling": "ENc1_saveday_Squid.png"
       }
     },
     "Chicks, Bunnies, Cubs": {
