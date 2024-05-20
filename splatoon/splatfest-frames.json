@@ -1,6 +1,20 @@
 {
-  "current": "Chicks, Bunnies, Cubs",
+  "current": "Same Ol', Bucket List, Save the Day",
   "splatfests": {
+    "Same Ol', Bucket List, Save the Day": {
+      "🛋️ Same Ol'": {
+        "Octoling": "ENa2_Sameol_Octopus.png",
+        "Inkling": "ENa1_Sameol_Squid.png"
+      },
+      "🪣 Bucket List": {
+        "Octoling": "ENb2_Bucketlist_Octopus.png",
+        "Inkling": "ENb1_Bucketlist_Squid.png"
+      },
+      "🌆 Save the Day": {
+        "Octoling": "ENc2_Saveday_Octopus.png",
+        "Inkling": "ENc1_Saveday_Squid.png"
+      }
+    },
     "Chicks, Bunnies, Cubs": {
       "🐣 Chicks": {
         "Octoling": "ENa2_chicks_octopus.png",
