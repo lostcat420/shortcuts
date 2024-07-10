@@ -1,6 +1,20 @@
 {
-  "current": "Same Ol', Bucket List, Save the Day",
+  "current": "Palace, Theme Park, Beach",
   "splatfests": {
+    "Palace, Theme Park, Beach": {
+      "🏰 Palace": {
+        "Octoling": "ENa2_palace_octopus.png",
+        "Inkling": "ENa1_palace_squid.png"
+      },
+      "🎡 Theme Park": {
+        "Octoling": "ENb2_themepark_octopus.png",
+        "Inkling": "ENb1_themepark_squid.png"
+      },
+      "🏖️ Beach": {
+        "Octoling": "ENc2_beach_octopus.png",
+        "Inkling": "ENc1_beach_squid.png"
+      }
+    },
     "Same Ol', Bucket List, Save the Day": {
       "🛋️ Same Ol'": {
         "Octoling": "ENa2_sameol_octopus.png",
