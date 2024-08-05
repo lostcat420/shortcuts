@@ -1,6 +1,20 @@
 {
-  "current": "Palace, Theme Park, Beach",
+  "current": "Bread, Rice, Pasta",
   "splatfests": {
+    "Bread, Rice, Pasta": {
+      "🍞 Bread": {
+        "Octoling": "ENa2_bread_Octopus.png",
+        "Inkling": "ENa1_bread_Squid.png"
+      },
+      "🍚 Rice": {
+        "Octoling": "ENb2_rice_Octopus.png",
+        "Inkling": "ENb1_rice_Squid.png"
+      },
+      "🍝 Pasta": {
+        "Octoling": "ENc2_pasta_Octopus.png",
+        "Inkling": "ENc1_pasta_Squid.png"
+      }
+    },
     "Palace, Theme Park, Beach": {
       "🏰 Palace": {
         "Octoling": "ENa2_palace_octopus.png",
