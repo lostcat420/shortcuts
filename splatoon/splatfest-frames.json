@@ -3,16 +3,16 @@
   "splatfests": {
     "Bread, Rice, Pasta": {
       "🍞 Bread": {
-        "Octoling": "ENa2_bread_Octopus.png",
-        "Inkling": "ENa1_bread_Squid.png"
+        "Octoling": "ENa2_bread_octopus.png",
+        "Inkling": "ENa1_bread_squid.png"
       },
       "🍚 Rice": {
-        "Octoling": "ENb2_rice_Octopus.png",
-        "Inkling": "ENb1_rice_Squid.png"
+        "Octoling": "ENb2_rice_octopus.png",
+        "Inkling": "ENb1_rice_squid.png"
       },
       "🍝 Pasta": {
-        "Octoling": "ENc2_pasta_Octopus.png",
-        "Inkling": "ENc1_pasta_Squid.png"
+        "Octoling": "ENc2_pasta_octopus.png",
+        "Inkling": "ENc1_pasta_squid.png"
       }
     },
     "Palace, Theme Park, Beach": {
